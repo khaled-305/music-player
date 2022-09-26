@@ -1,0 +1,1 @@
+# Music Player App with React 18! (Tailwind CSS, Shazam API, Redux)
